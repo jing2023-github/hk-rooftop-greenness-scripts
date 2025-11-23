@@ -12,3 +12,10 @@ This repository contains Google Earth Engine (GEE) scripts and ArcGIS Pro workfl
 GEE scripts can be copied directly into the Code Editor. 
 ArcGIS arcpy script can be executed from the ArcGIS Pro Python window or as script tools in a toolbox. 
 
+
+## 🛠️ Code Availability
+
+### Google Earth Engine Scripts：
+https://code.earthengine.google.com/50978a247173bad991339f9badc833eb
+### ArcGIS Pro Workflow:
+data_processing_arcgis.py
