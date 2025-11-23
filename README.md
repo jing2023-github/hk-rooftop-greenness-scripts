@@ -10,6 +10,5 @@ This repository contains Google Earth Engine (GEE) scripts and ArcGIS Pro workfl
 
 ## How to use
 GEE scripts can be copied directly into the Code Editor. 
-ArcGIS pseudocode describes the sequential operations used for spatial analysis.
+ArcGIS arcpy script can be executed from the ArcGIS Pro Python window or as script tools in a toolbox. 
 
-For questions, please contact: XXX@XXX
